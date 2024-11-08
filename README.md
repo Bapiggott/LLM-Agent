@@ -70,6 +70,9 @@ In addition to the mission-based approach, the system supports real-time control
 - **Sensor Selection:** Mission-specific sensors are chosen based on requirements to optimize the prompt formulation.
 - **Communication Efficiency:** Efficient conversion of Minispec to Python and seamless communication via MAVLink is crucial, especially for real-time operations.
 
+## Parameter Reference
+For detailed configuration of the PX4 drone, refer to the [PX4 Parameter Reference](https://docs.px4.io/main/en/advanced_config/parameter_reference.html). This section contains parameters available for customization, allowing you to determine which parameters are important to change, based on sensor data and mission requirements. Understanding these parameters helps ensure the drone operates efficiently and accurately for different types of missions.
+
 ## Future Work
 - **Sensor Optimization:** Further exploration into dynamic sensor selection and real-time data prioritization.
 - **Enhanced Real-Time Control:** Improve the responsiveness of the LLM for live control.
