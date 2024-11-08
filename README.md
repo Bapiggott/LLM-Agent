@@ -58,7 +58,7 @@ print("Sample data:", depth_with_coordinates)
 - **Sensor Data:** Collected from various sensors, including GPS (for positioning), IMU (for stability), and camera sensors (for visual data). Only relevant data is used in LLM prompt processing for mission precision.
 - **Image Data Processing:** The system processes depth estimation, object detection, and scene analysis to generate concise natural language descriptions for input into the LLM.
 
-## Real-Time Control
+## Real-Time Control (Currently Undone)
 In addition to the mission-based approach, the system supports real-time control through a "joystick" setup. This allows the LLM to adaptively respond to updated prompts in complex or unpredictable environments.
 
 ### Benefits of Real-Time Control
