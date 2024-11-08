@@ -78,9 +78,3 @@ In addition to the mission-based approach, the system supports real-time control
 ## Data Availability
 The project data will be available via a MEGA link (add the MEGA link here).
 
-## Contributing
-Feel free to open issues or create pull requests to improve this project.
-
-## License
-This project is open source. Please check the `LICENSE` file for details.
-
