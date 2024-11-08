@@ -17,7 +17,7 @@ The system translates natural language instructions into mission commands that e
 2. **LLM Processing:** The LLM combines the prompt with pre-defined drone capabilities and context.
 3. **Data Integration:** Sensor and vision data (from ISAAC SIM) are merged into the prompt.
 4. **Minispec Code Generation:** A streamlined Python-like code format is generated for efficient execution.
-5. **Execution:** Minispec code is converted to full Python and commands are sent to PX4-Autopilot via MAVLink.
+5. **Execution:** [Minispec code](https://arxiv.org/pdf/2312.14950) is converted to full Python and commands are sent to PX4-Autopilot via MAVLink.
 
 ## Directory Structure
 Each mission is organized in a directory with the following structure:
