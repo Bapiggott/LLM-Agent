@@ -79,5 +79,5 @@ For detailed configuration of the PX4 drone, refer to the [PX4 Parameter Referen
 - **Minispec Refinement:** Optimize Minispec generation for faster conversion to PX4-compatible commands.
 
 ## Data Availability
-The project data will be available via a MEGA link (add the MEGA link here).
+The project data will be available via a [MEGA link](https://mega.nz/folder/MaN3USwA#-Dl232AGkgtAH7HnNfR2nA).
 
